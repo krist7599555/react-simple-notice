@@ -1,0 +1,20 @@
+.AppTextArea {
+  display: flex;
+  margin-bottom: 30px;
+}
+.AppTextArea textarea {
+  font-size: 1.5rem;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
+}
+button.finish {
+  padding: 10px 20px;
+  height: 70px;
+  margin: 0;
+  margin-left: 10px;
+  background-color: rgb(77, 142, 172);
+  color: white;
+  font-size: 1.2rem;
+  padding-right: 30px;
+}

@@ -1,0 +1,13 @@
+.AppSelector {
+  display: none;
+}
+.AppSelector li {
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  width: 200px;
+  background-color: rgb(63, 54, 44);
+}
+.AppSelector li[focus="1"] {
+  background-color: rgb(216, 127, 25);
+}
